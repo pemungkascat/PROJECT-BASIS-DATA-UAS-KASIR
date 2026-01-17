@@ -35,7 +35,7 @@ Laporan dan poster UAS
 
 👉 Link Repository Basis Data:
 
-https://github.com/pemungkascat/PROJECT-UAS-KASIR-CCTV-WEB.git
+https://github.com/pemungkascat/PROJECT-BASIS-DATA-UAS-KASIR.git
 
 
 
