@@ -7,7 +7,7 @@ Proyek Sistem Kasir CCTV merupakan sistem basis data yang dirancang untuk menduk
 CATUR PAMUNGKAS
 NIM: 250119005
 
-BIMA 
+RIQHAN BIMA SAPUTRA
 NIM: 250119022
 
 📌 Deskripsi Proyek
@@ -45,7 +45,7 @@ Repository terpisah yang berisi implementasi aplikasi sistem kasir berbasis web,
 
 Aplikasi web ini digunakan sebagai contoh penerapan database dalam sistem nyata dan bukan fokus utama penilaian mata kuliah basis data.
 
-👉  Repository Sistem Kasir Berbasis Web:
+👉  Folder Sistem Kasir Berbasis Web:
 
 Kasir_apps
 
